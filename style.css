@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+    .navbar{
+        background-color: rgb(30, 29, 29);
+        color: #a8a4a4;
+    }
+    .navbar a{
+
+        margin-right: ;
+        color:;
+        padding:0;
+    }
+    .nav-link{
+
+        color:#fb9902;
+    }
+    .dropdown-menu{
+
+        background-color:rgb(30, 29, 29);
+
+    }
+    .navbar-brand img{
+        height:10%;
+    width: 90px;PX;
+    padding-left:25px;
+    margin-right: 15px;
+
+    }
+ P{
+    font-weight: 500;
+    color: white;
+    
+    margin-top: 1%;
+ }
+ H3{
+
+        color:#fb9902;
+ }
+ 
+ #PROMO{
+    background-color: rgb(30, 29, 29);
+    color: white;
+    padding:5%;
+    
+ }
+     .dropdown-item{
+        color: white;
+     }
+     .AYUSH{
+        margin-left: 40%;
+        height:400PX ;
+        transition: 0.10s linear;
+     }
+     .AYUSH:hover {
+            transform: scale(1.03);
+             cursor: pointer;
+     }
+     .social-icon img{
+      width:60px;
+      transition: 0.5s;
+      margin-left: 35%;
+
+     }
+     .social-icon a:hover img {
+      transform: translateY(-10px);
+     }
+     #PROCESS{
+background-color: rgb(30, 29, 29);
+padding: 6%;
+
+     }
+     .PROTO{
+        height: 500px;
+        margin-bottom: 5%;
+        transition: 0.40s linear;
+     }
+     .PROTO:hover {
+            transform: scale(1.03);
+             cursor: pointer;
+        
+     }
+     h1{
+        
+        font-weight: 2000;
+        color:#fb9902;
+        margin-right: 40%;
+     }
+     .ACT{
+        margin-right: 40%;
+        color:white;
+     }
+     H2{
+        color:white;
+        margin-right:80%;
+     }
+     #SERVICE{
+        background-color:rgb(30, 29, 29) ;
+        padding: 4%;
+     }
+     H4{
+        color: white;
+        font-weight:bold ;
+    }
+    .course{
+color: bisque;
+        }
+       
+      .box{
+        border-radius: 15%;
+        border: 6px solid #fb9902;
+
+      }
+          .ICON{
+            transition: transform 0.5s ease; 
+            
+          }
+
+          .ICON:hover {
+            transform: scale(1.2);}
+ .image{
+  width: 400px;
+  border-radius: 30%;
+ }
+ .HIRE{
+  COLOR: black;
+
+  
+ }
+ #SWIPER{
+  padding: 3%;
+  background-color:rgb(30, 29, 29);
+ }
+   .d-block{
+    margin-left: 37%;
+    margin-bottom: 10%;
+    margin-top: 6%;
+    animation: moveUpDown 2s infinite ease-in-out;
+}
+
+@keyframes moveUpDown {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-80px);
+  }
+}
+   
+   .BOLD{
+    margin-left: 45%;
+   }
+   #EMAIL{
+    padding: 5%;
+    background-color:rgb(30, 29, 29) ;
+    
+   }
+   .EMAIL{
+margin-left: 40%;
+  }
+  .ENTER{
+    margin-top: 6%;
+  }
+  #LAST{
+    padding: 5%;
+    background-color:rgb(30, 29, 29) ;
+  }
+  .foot-PANEL{
+    background-color: rgb(45, 43, 43);
+
+  }
+  #EMOJI{
+    background-color:#1b1b1b ;
+    
+  }
+  .footer{
+
+  }
+  
+  P SPAN{
+    color: #fa9907;
+  }
+  .EMOJI{
+       margin-top: 4%;
+       margin-bottom: 1%;
+  }
+  #EMOJI H1{
+          color: white;
+          margin-right: 3%;
+           
+  }
+  .SOCIAL IMG{
+    width: 100px;
+  
+    margin-left: 10%;
+  }
+   .LIKES{
+    margin-right: 20%;
+   }
+   .LOGO{
+            transition: transform 0.5s ease; 
+          }
+
+          .LOGO:hover {
+            transform: scale(1.2);}
+            .ani{
+              transition: 0.10s linear;
+     }
+     .ani:hover {
+            transform: scale(1.20);
+             cursor: pointer;
+            }
